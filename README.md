@@ -12,17 +12,17 @@ Any monitor that supports DDC/CI Protocal (Display Data Channel / Command Interf
 
 ## TODO
 
-[ ] Make a C# / MFC Visual Software
+- [ ] Make a C# / MFC Visual Software
 
 ## Usage
 
 Just click the exe file.:blush:
 
-![:\sample.pn]()
+![:\sample.pn](https://github.com/MR-HOWE/controlBrightness/raw/master/Doc/Pic/sample.png)
 
 ## Development
 
-To learn more about api of monitor,you can refer to [Microsoft Monitor Configuration Document](https://msdn.microsoft.com/en-us/library/windows/desktop/dd692980(v=vs.85).aspx)
+To learn more about API of monitor, you can refer to [Microsoft Monitor Configuration Document](https://msdn.microsoft.com/en-us/library/windows/desktop/dd692980(v=vs.85).aspx)
 
 
 
